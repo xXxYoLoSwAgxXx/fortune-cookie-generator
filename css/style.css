@@ -1,0 +1,19 @@
+#fortune-cookie-text{
+  background-color: green;
+  height:300px;
+  width:400px;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+
+
+
+
+
+#previous-fortunes{
+  background-color: white;
+  height: 300px;
+  width: 400px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
